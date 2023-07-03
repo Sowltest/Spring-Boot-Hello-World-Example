@@ -1,4 +1,3 @@
-package org.example;
 package com.reytech.demo;
 
 public class Personne {
